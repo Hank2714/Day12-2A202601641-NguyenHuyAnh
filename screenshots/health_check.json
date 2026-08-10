@@ -1,0 +1,8 @@
+{
+  "service": "day12-agent",
+  "status": "ok",
+  "version": "1.0.0",
+  "url": "https://day12-agent-qmot.onrender.com",
+  "platform": "Render",
+  "verified_at": "2026-08-10T04:30:00Z"
+}
